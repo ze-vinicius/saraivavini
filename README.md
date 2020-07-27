@@ -1,4 +1,21 @@
-### Hi there 👋
+### E ai, eu sou o Vinícius Saraiva 👋
+
+📚 Estudante de Sistemas de Informação na [UNIFESSPA](https://www.unifesspa.edu.br/)
+
+💻 Desenvolvedor frontend jr 
+
+🦸‍♂️ Diretor de Marketing e Comunicação na 🦎 [exception jr](https://exceptionjr.com.br) e membro do time de projetos nas horas vagas
+
+### O que eu estou estudando no momento
+
+👨‍💻 Desenvolvimento Web com React js
+
+📱 Desenvolvimento Mobile com React Native
+
+📝 Fundamentos de UX Design para desenvolver melhores soluções de software.
+
+### É isto, até mais! 🤙
+
 
 <!--
 **jbsaraiva/jbsaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
