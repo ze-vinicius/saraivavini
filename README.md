@@ -1,4 +1,4 @@
-### E ai, eu sou o Vinícius Saraiva 👋
+### E ai, eu sou o José Vinícius 👋
 
 📚 Estudante de Sistemas de Informação na [UNIFESSPA](https://www.unifesspa.edu.br/)
 
