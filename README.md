@@ -4,7 +4,8 @@
 
 💻 Desenvolvedor frontend jr 
 
-🦸‍♂️ Diretor de Marketing e Comunicação na 🦎 [exception jr](https://exceptionjr.com.br) e membro do time de projetos nas horas vagas
+<!-- 🦸‍♂️ Diretor de Marketing e Comunicação na 🦎 [exception jr](https://exceptionjr.com.br) e membro do time de projetos nas horas vagas 
+-->
 
 ### O que eu estou estudando no momento
 
