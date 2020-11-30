@@ -11,9 +11,9 @@
 
 📝 Atualmente sou aluno do Bootcamp GoStack da Rocketseat onde estou aprendendo:
 
-- Desenvolvimento frontend com React Js;
-- Desenvolvimento Backend com Node js;
-- Desenvolvimento Mobile com React Native;
+- Desenvolvimento [frontend](https://github.com/saraivavini/gobarber-frontend) com React Js;
+- Desenvolvimento [backend](https://github.com/saraivavini/gobarber-backend) com Node js;
+- Desenvolvimento [mobile](https://github.com/saraivavini/gobarber-mobile) com React Native;
 - Padrões de projeto e arquitetura de software;
 - Princípios SOLID;
 
