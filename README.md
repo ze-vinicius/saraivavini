@@ -2,24 +2,29 @@
 
 📚 Estudante de Sistemas de Informação na [UNIFESSPA](https://www.unifesspa.edu.br/)
 
-💻 Desenvolvedor frontend jr 
+💻 Desenvolvedor FullStack jr 
 
-<!-- 🦸‍♂️ Diretor de Marketing e Comunicação na 🦎 [exception jr](https://exceptionjr.com.br) e membro do time de projetos nas horas vagas 
--->
+🦸‍♂️ Pós Jr da 🦎 [exception jr](https://exceptionjr.com.br)
+
 
 ### O que eu estou estudando no momento
 
-👨‍💻 Desenvolvimento Web com React js
+📝 Atualmente sou aluno do Bootcamp GoStack da Rocketseat onde estou aprendendo:
 
-📱 Desenvolvimento Mobile com React Native
-
-📝 Fundamentos de UX Design para desenvolver melhores soluções de software.
+- Desenvolvimento frontend com React Js;
+- Desenvolvimento Backend com Node js;
+- Desenvolvimento Mobile com React Native;
+- Padrões de projeto e arquitetura de software;
+- Princípios SOLID;
 
 ### Encontre-me em outras redes sociais.
 
 🐦 [Twitter](https://twitter.com/SaraivaZ3) (*Eu geralmente só posto coisa sobre animes e memes de gatos aqui*)
 
 💼 [Linkedln](https://www.linkedin.com/in/josé-vinícius-barcelos-saraiva-52368a153)
+
+
+🔍 Atualmente em busca de freelas em que eu possa colaborar como desenvolvedor fullstack.
 
 ### É isto, até mais! 🤙
 
