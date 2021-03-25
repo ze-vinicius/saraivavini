@@ -6,22 +6,25 @@
 
 🦸‍♂️ Pós Jr da 🦎 [exception jr](https://exceptionjr.com.br)
 
+📱 Desenvolvedor React Native Jr na [Escola Em Moviento](https://escolaemmovimento.com.br/)
 
+<!--
 ### O que eu estou estudando no momento
 
-📝 Atualmente sou aluno do Bootcamp GoStack da Rocketseat onde estou aprendendo:
+ 📝 Atualmente sou aluno do Bootcamp GoStack da Rocketseat onde estou aprendendo:
 
-- Desenvolvimento [frontend](https://github.com/saraivavini/gobarber-frontend) com React Js;
-- Desenvolvimento [backend](https://github.com/saraivavini/gobarber-backend) com Node js;
-- Desenvolvimento [mobile](https://github.com/saraivavini/gobarber-mobile) com React Native;
-- Padrões de projeto e arquitetura de software;
-- Princípios SOLID;
+ - Desenvolvimento [frontend](https://github.com/saraivavini/gobarber-frontend) com React Js;
+ - Desenvolvimento [backend](https://github.com/saraivavini/gobarber-backend) com Node js;
+ - Desenvolvimento [mobile](https://github.com/saraivavini/gobarber-mobile) com React Native;
+ - Padrões de projeto e arquitetura de software;
+ - Princípios SOLID;
+-->
 
 ### Encontre-me em outras redes sociais.
 
 🐦 [Twitter](https://twitter.com/SaraivaZ3) (*Eu geralmente só posto coisa sobre animes e memes de gatos aqui*)
 
-💼 [Linkedln](https://www.linkedin.com/in/josé-vinícius-barcelos-saraiva-52368a153)
+💼 [Linkedln](https://www.linkedin.com/in/saraivavini)
 
 
 🔍 Atualmente em busca de freelas em que eu possa colaborar como desenvolvedor fullstack.
