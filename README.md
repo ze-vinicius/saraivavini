@@ -2,11 +2,11 @@
 
 📚 Estudante de Sistemas de Informação na [UNIFESSPA](https://www.unifesspa.edu.br/)
 
-💻 Desenvolvedor FullStack jr 
+💻 Desenvolvedor Mobile 
 
 🦸‍♂️ Pós Jr da 🦎 [exception jr](https://exceptionjr.com.br)
 
-📱 Desenvolvedor React Native Jr na [Escola Em Moviento](https://escolaemmovimento.com.br/)
+📱 Analista de Desenvolvimento na [Escola Em Moviento](https://escolaemmovimento.com.br/) (Atualmente trabalho com React Native)
 
 <!--
 ### O que eu estou estudando no momento
@@ -27,7 +27,9 @@
 💼 [Linkedln](https://www.linkedin.com/in/saraivavini)
 
 
+<!-- 
 🔍 Atualmente em busca de freelas em que eu possa colaborar como desenvolvedor fullstack.
+-->
 
 ### É isto, até mais! 🤙
 
