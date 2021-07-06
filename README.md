@@ -22,8 +22,6 @@
 
 ### Encontre-me em outras redes sociais.
 
-🐦 [Twitter](https://twitter.com/SaraivaZ3) (*Eu geralmente só posto coisa sobre animes e memes de gatos aqui*)
-
 💼 [Linkedln](https://www.linkedin.com/in/saraivavini)
 
 
