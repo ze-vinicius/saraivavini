@@ -1,12 +1,12 @@
 ### E ai, eu sou o José Vinícius 👋
 
-📚 Estudante de Sistemas de Informação na [UNIFESSPA](https://www.unifesspa.edu.br/)
+📚 Bacharel em Sistemas de Informação na [UNIFESSPA](https://www.unifesspa.edu.br/)
 
 💻 Desenvolvedor Mobile 
 
 🦸‍♂️ Pós Jr da 🦎 [exception jr](https://exceptionjr.com.br)
 
-📱 Analista de Desenvolvimento na [Escola Em Moviento](https://escolaemmovimento.com.br/) (Atualmente trabalho com React Native)
+📱 Desenvolvedor Mobile na [Méliuz](https://www.meliuz.com.br/) (Atualmente trabalho com React Native)
 
 <!--
 ### O que eu estou estudando no momento
