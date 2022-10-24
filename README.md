@@ -1,12 +1,12 @@
-### E ai, eu sou o José Vinícius 👋
+### Hi, I'm José Vinícius 👋
 
-📚 Bacharel em Sistemas de Informação na [UNIFESSPA](https://www.unifesspa.edu.br/)
+📚 Bachelor of Information Systems from [UNIFESSPA](https://www.unifesspa.edu.br/)
 
-💻 Desenvolvedor Mobile 
+💻 Mobile Developer (React Native + Typescript)
 
-🦸‍♂️ Pós Jr da 🦎 [exception jr](https://exceptionjr.com.br)
+🦸‍♂️ Cofounder of 🦎 [exception jr](https://exceptionjr.com.br)
 
-📱 Desenvolvedor Mobile na [Méliuz](https://www.meliuz.com.br/) (Atualmente trabalho com React Native)
+📱 Mobile developer at [Méliuz](https://www.meliuz.com.br/)
 
 <!--
 ### O que eu estou estudando no momento
@@ -20,16 +20,11 @@
  - Princípios SOLID;
 -->
 
-### Encontre-me em outras redes sociais.
-
-💼 [Linkedln](https://www.linkedin.com/in/saraivavini)
-
-
 <!-- 
 🔍 Atualmente em busca de freelas em que eu possa colaborar como desenvolvedor fullstack.
 -->
 
-### É isto, até mais! 🤙
+### That's all, folks! 🤙
 
 
 <!--
